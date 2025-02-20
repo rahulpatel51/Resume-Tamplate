@@ -29,7 +29,7 @@ This is a responsive and modern resume created using **HTML** and **CSS**. It fe
 ---
 
 ## 📁 Folder Structure:
-resume-project/ │ index.html // Main HTML file │ style.css // Main CSS file │ README.md // Project
+Resume-Tamplate/ │ index.html // Main HTML file │ style.css // Main CSS file │ README.md // Project
 
 
 ---
@@ -38,5 +38,5 @@ resume-project/ │ index.html // Main HTML file │ style.css // Main CSS file 
 1. **Clone the Repository:**  
    ```bash
    git clone https://github.com/your-username/resume-project.git
-cd resume-project
+cd Resume-Tamplate
 
